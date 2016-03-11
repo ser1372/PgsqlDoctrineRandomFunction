@@ -3,13 +3,13 @@
     "type": "symfony-bundle",
     "description": "PostgreSQL RANDOM() function for Doctrine ORM",
     "keywords": ["doctrine", "symfony", "postgresql", "pgsql", "function", "random", "qbbr"],
-    "homepage": "https://github.com/Qbbr/PgsqlDoctrineRandomFunction/",
+    "homepage": "https://github.com/qbbr/PgsqlDoctrineRandomFunction",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
             "name": "Sokolov Innokenty",
-            "homepage": "https://github.com/Qbbr/"
+            "homepage": "https://github.com/qbbr"
         }
     ],
     "require" : {
