@@ -1,0 +1,21 @@
+{
+    "name": "qbbr/pgsql-doctrine-random-function",
+    "type": "symfony-bundle",
+    "description": "PostgreSQL RANDOM() function for Doctrine ORM",
+    "keywords": ["doctrine", "symfony", "postgresql", "pgsql", "function", "random", "qbbr"],
+    "homepage": "https://github.com/Qbbr/PgsqlDoctrineRandomFunction/",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Sokolov Innokenty",
+            "homepage": "https://github.com/Qbbr/"
+        }
+    ],
+    "require" : {
+        "doctrine/orm": ">=2.2.0"
+    },
+    "autoload": {
+        "psr-4": { "Qbbr\\PgsqlDoctrineRandomFunction\\": "" }
+    }
+}
