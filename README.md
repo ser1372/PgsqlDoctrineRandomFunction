@@ -2,6 +2,10 @@
 
 PostgreSQL RANDOM() function for Doctrine ORM
 
+[![Latest Stable Version](https://poser.pugx.org/qbbr/pgsql-doctrine-random-function/v/stable)](https://packagist.org/packages/qbbr/pgsql-doctrine-random-function)
+[![Total Downloads](https://poser.pugx.org/qbbr/pgsql-doctrine-random-function/downloads)](https://packagist.org/packages/qbbr/pgsql-doctrine-random-function)
+[![License](https://poser.pugx.org/qbbr/pgsql-doctrine-random-function/license)](https://packagist.org/packages/qbbr/pgsql-doctrine-random-function)
+
 ## Installation
 
 ### Step 1: Download the package
